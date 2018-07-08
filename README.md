@@ -49,6 +49,4 @@
 - . **What is the importance of finally block in exception handling ?**
 - . **What will happen to the Exception object after exception handling ?**
 - .**How does finally block differ from finalize() method ?**
-- .
-
 
